@@ -1,0 +1,277 @@
+{
+	"hot" : {
+		"good1" : {
+			"src" : "dist/img/img2/hot2.jpg",
+			"text" : "[支持深圳自提] 黛安芬 17秋新轻柔裁剪纤维杯高位稳定支撑型文胸",
+			"price" : "￥119"
+		},
+		"good2" : {
+			"src" : "dist/img/img2/hot3.jpg",
+			"text" : "[支持自提] 迪士尼 SANRIO女性幼童儿童棉服夹棉外套",
+			"price" : "￥148"
+		},
+		"good3" : {
+			"src" : "dist/img/img2/hot4.jpg",
+			"text" : "[支持深圳自提] 金利来 头层牛皮都市潮流男士商务休闲鞋",
+			"price" : "￥388"
+		}		
+	},
+	"sell" : {
+		"good1" : {
+			"src" : "dist/img/img2/top2.JPG",
+			"text" : "[支持深圳自提] BELLO ANN贝洛安  时尚休闲卫衣 ",
+			"price" : "￥270"
+		},
+		"good2" : {
+			"src" : "dist/img/img2/top3.JPG",
+			"text" : "[支持自提] U.S. POLO ASSN.  女士时尚休闲长衬衫 ",
+			"price" : "￥77"
+		},
+		"good3" : {
+			"src" : "dist/img/img2/top4.JPG",
+			"text" : "[支持自提] U.S. POLO ASSN.  女士时尚休闲长衬衫 [支持自提] U.S. POLO ASSN.  女士时尚休闲长衬衫 ",
+			"price" : "￥47"
+		},
+		"good4" : {
+			"src" : "dist/img/img2/top5.JPG",
+			"text" : "[支持自提] U.S. POLO ASSN.  女士休闲牛仔短裙 ",
+			"price" : "￥47"
+		}		
+	},
+	"goods" : {
+		"good1" : {
+			"src" : "dist/img/img2/good2.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good2" : {
+			"src" : "dist/img/img2/good3.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good3" : {
+			"src" : "dist/img/img2/good4.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good4" : {
+			"src" : "dist/img/img2/good5.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good5" : {
+			"src" : "dist/img/img2/good6.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good6" : {
+			"src" : "dist/img/img2/good7.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good7" : {
+			"src" : "dist/img/img2/good8.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good8" : {
+			"src" : "dist/img/img2/good9.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good9" : {
+			"src" : "dist/img/img2/good10.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good10" : {
+			"src" : "dist/img/img2/good11.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good11" : {
+			"src" : "dist/img/img2/good12.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good12" : {
+			"src" : "dist/img/img2/good13.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good13" : {
+			"src" : "dist/img/img2/good14.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good14" : {
+			"src" : "dist/img/img2/good15.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good15" : {
+			"src" : "dist/img/img2/good16.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good16" : {
+			"src" : "dist/img/img2/good17.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good17" : {
+			"src" : "dist/img/img2/good2.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good18" : {
+			"src" : "dist/img/img2/good3.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good19" : {
+			"src" : "dist/img/img2/good4.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good20" : {
+			"src" : "dist/img/img2/good5.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good21" : {
+			"src" : "dist/img/img2/good6.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good22" : {
+			"src" : "dist/img/img2/good7.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good23" : {
+			"src" : "dist/img/img2/good8.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good24" : {
+			"src" : "dist/img/img2/good9.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good25" : {
+			"src" : "dist/img/img2/good10.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good26" : {
+			"src" : "dist/img/img2/good11.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good27" : {
+			"src" : "dist/img/img2/good12.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good28" : {
+			"src" : "dist/img/img2/good13.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good29" : {
+			"src" : "dist/img/img2/good14.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good30" : {
+			"src" : "dist/img/img2/good15.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good31" : {
+			"src" : "dist/img/img2/good16.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good32" : {
+			"src" : "dist/img/img2/good17.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good33" : {
+			"src" : "dist/img/img2/good2.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good34" : {
+			"src" : "dist/img/img2/good3.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good35" : {
+			"src" : "dist/img/img2/good4.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good36" : {
+			"src" : "dist/img/img2/good5.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good37" : {
+			"src" : "dist/img/img2/good6.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good38" : {
+			"src" : "dist/img/img2/good7.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		},
+		"good39" : {
+			"src" : "dist/img/img2/good8.jpg",
+			"span" : "￥135.00",
+			"del" : "￥299.00",
+			"text" : "[支持深圳自提] LAGOGO 蓝白色衬衫一字领喇叭袖九分袖休闲上衣女"
+		}
+	}
+}

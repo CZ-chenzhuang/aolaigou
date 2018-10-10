@@ -1,0 +1,107 @@
+@import "public";
+.loginbox{
+    width:340px;
+    height:390px;
+    border:1px solid #d0d0d0;
+    float: right;
+    margin-top:75px;
+    position: relative;
+}
+.loginboxTop a{
+    position: absolute;
+    color: #FF7800;
+    font-size: 14px;
+    top:15px;
+    left:20px;
+}
+.loginboxTop .loginboxTopPc{
+    width:60px;
+    height:60px;
+    background: url(../../dist/img/img1/loginbg.png) no-repeat -75px -75px;
+    float: right;
+}
+.loginbox form{
+    width: 240px;
+//  height:224px;
+    margin:0 auto;
+    margin-top:50px;
+    text-align: center;
+    .username{
+        width:240px;
+        height:40px;
+        border:1px solid #D0D0D0;
+        outline: none;
+        border-radius: 5px;
+        margin-bottom: 30px;
+        text-indent: 4em;
+        font-size: 12px;
+        background: url(../../dist/img/img1/loginbg2.png) no-repeat 0 -90px;
+    }
+    .username:nth-of-type(2){
+        background: url(../../dist/img/img1/loginbg2.png) no-repeat 0 -135px;
+    }
+}
+.formTxt{
+   .formTxt-fl{
+       float: left;
+       height: 20px;
+       line-height: 20px;
+       font-size: 12px;
+       color: #666;
+       input{
+           vertical-align: middle;
+           margin-right: 10px;
+       }
+   } 
+   .formTxt-fr{
+       float: right;    
+       a{
+           color: #666;
+           font-size: 12px;
+       }
+   }
+}
+.loginbox form input[type=submit]{
+    width:240px;
+    height: 40px;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    background:#C81417;
+    font-size: 12px;
+    margin:10px 0 20px;
+}
+.loginbox p{
+    text-align: center;
+    color: #666;
+    font-size: 12px;
+}
+.loginbox ul{
+    width:50%;
+    text-align: center;
+    margin:10px auto;
+    li{
+        width:85px;
+        height: 55px;
+        i{
+            width:30px;
+            height: 30px;
+
+            display: block;
+            margin:0 auto;
+            margin-bottom: 5px;
+        }
+    }
+    li:first-child{
+        float: left;
+        i{
+            background: url(../../dist/img/img1/loginbg2.png) no-repeat 0 -180px;
+        }
+    }
+    li:last-child{
+        float: right;
+        i{
+            background:url(../../dist/img/img1/loginbg2.png) no-repeat 0 -225px;
+        }
+    }
+}

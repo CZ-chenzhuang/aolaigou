@@ -1,0 +1,403 @@
+@import "public";
+.nav{
+    border-bottom:1px solid #ccc;
+}
+/*hot*/
+.hot{
+    margin-top: 20px;
+}
+.hot-cont{
+    width:1200px;
+    height:150px;
+    border:1px solid #e6e6e6;
+}
+.hotfl{
+    height: 100%;
+    width:40px;
+    border-right:1px solid #e6e6e6;
+    background: #fafafa;
+    float: left;
+    ul{
+        margin-top:30px;
+    }
+    ul li{
+        width: 100%;
+        font-size: 14px;
+        color: #666;
+        font-weight:bold;
+        text-align: center;
+    }
+}
+.hotfr ul li{
+//  width:272px;
+//  height: 132px;
+    float: left;
+    margin:10px 0 0 15px;
+    .hotPc{
+        float:left;
+        border:1px solid #eaeaea;
+    }
+    .hotTxt{
+        width:130px;
+        height: 130px;
+        float: left;
+        margin-left:10px;
+    }
+}
+.hotTxt1{
+    height: 52px;
+    a{
+        display: block;
+        color: #666;
+        font-size: 12px;
+    }
+    a:hover{
+        color:#ff3243;
+    }
+}
+.hotTxt2{
+    height:30px;
+    line-height: 30px;
+    color:#ff3243 ;
+    font-size: 12px;
+}
+.hotTxt3{
+//  height: 30px;
+    margin-top: 10px;
+    a{
+        display: block;
+        height: 30px;
+        width: 80px;
+        color:#656565;
+        font-size: 12px;
+        line-height: 30px;
+        text-align: center;
+        background: #e6e6e6;
+    }
+    a:hover{
+        color:#ff3243;
+    }
+}
+/*fenlei*/
+.fenlei-cont .feileitop{
+    margin-top: 20px;
+    border:1px solid #e6e6e6;
+    border-bottom: none;
+}
+.fenlei-cont .feileitop>div{
+    height: 35px;
+    border-bottom:1px solid #e6e6e6;
+}
+.feileidi{
+    height: 35px;
+}
+.fenlei-cont .feileitop .fenlei1{
+    height:40px;
+    background: #fafafa;    
+}
+.fenlei1-1{
+    height: 100%;
+    line-height: 40px;
+    float: left;
+    margin-left: 55px;
+    a{
+        font-size: 13px;
+        color: #fb5053;
+    }
+}
+.fenlei1-2{
+    width: 119px;
+    height: 40px;
+    float: left;
+    a{
+        display: block;
+        width:80px;
+        height: 25px;
+        background: #fff;
+        border:1px solid #e6e6e6;
+        float: left;
+        margin:8px 15px 0 10px;
+        font-size: 13px;
+        line-height: 25px;
+        text-align:center;
+    }
+    .arrow{
+        height: 100%;
+        line-height:40px;
+        float: left;
+    }
+}
+.fenlei2{
+    .fenlei2-1{
+        height: 100%;
+        width: 78px;
+        background: #fafafa; 
+        text-align: right;
+        line-height:34px;
+        font-size: 12px;
+        float: left;
+        padding-right: 2px;
+    }
+    ul{
+        float: left;
+    }
+    ul li{
+        float: left;
+        margin-left: 20px;
+        a{
+            display: block;
+            height: 100%;
+            line-height: 34px;
+            font-size: 12px;
+            color: #666;
+        }
+        input{
+            width:40px;
+            height: 17px;
+            margin-top:5px;
+        }
+        .queding{
+            width: 42px;
+            height: 25px;
+            background: #ccc;  
+            text-align: center;
+            line-height: 25px;
+            margin-top:4px;
+        }
+    }
+    .fenlei2-fr{
+        float: right;
+        a{
+            font-size: 12px;
+            color: #164a96;
+            height: 100%;
+            line-height: 34px;
+        }
+        .a2{
+            display: block;
+            width: 50px;
+            height: 20px;
+            line-height: 20px;
+            background: #f8f7f5;
+            border:1px solid #e5e5e5;
+            float: right;
+            text-align: center;
+            margin: 7px 10px 0 10px;
+        }
+    }
+}
+.feileidi span{
+    width:330px;
+    height: 30px;
+    font-size: 12px;
+    color:gray;
+    display: block;
+    margin:0 auto;
+    background:url(../../dist/img/img2/spanbg.jpg) no-repeat 0 -2px;
+    em{
+        display: block;
+        width:295px;
+        margin: 0 auto;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        padding-top: 5px;
+    }
+}
+/*good*/
+.good-cont{
+    margin-top: 5px;
+}
+.goodfl{
+    width: 190px;
+    height: 2130px;
+    float: left;
+}
+.goodfr{
+    width:1000px;
+    height:4197px;
+    float: right;
+}
+.goodfl1{
+    width: 188px;
+    border:1px solid #e6e6e6;
+    margin-bottom:20px;
+}
+.goodflhead{
+    height: 40px;
+    border-bottom:1px solid #e6e6e6;
+    line-height: 40px;
+    text-align: center;
+    i{
+        font-size:13px;
+        color: #c71417;
+        font-weight: bold;
+    }
+    em{
+        font-size: 13px;
+        font-weight: bold;
+    }
+}
+.goodfl ul {
+    width: 140px;
+    margin:0 auto;
+    margin-top:15px;
+}
+.goodfl ul li{
+    width: 140px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    .atxt{
+        display: block;
+        font-size: 13px;
+        color: #333;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;       
+        margin:10px 0 5px 0;
+    }
+    span{
+        display: block;
+        height: 20px;
+        line-height: 20px;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        color: #ff3344;
+    }
+}
+/*右侧商品栏*/
+.goodfr .goodfrHead{
+    height: 40px;
+    background: #f9f9f7;
+    border:1px solid #e6e6e6;
+}
+.goodfrHead{
+    span{
+        display: block;
+        height: 100%;
+        width: 45px;
+        font-size: 12px;
+        font-weight: bold;
+        text-align: center;
+        line-height:40px;
+        float: left;
+    }
+    ul{
+        float: left;
+        margin-right: 10px;
+        li{
+            float:left;
+            margin-top: 6px;
+            a{
+                height: 25px;
+                display: block;
+                border:1px solid #ddd;
+                color: #000;
+                font-size: 12px;
+                line-height: 25px;
+                padding:0 10px;
+            }
+        }
+        li:first-child a{
+            color:#fff;
+            background: #dc3645;
+            border: 1px solid #fb5053;           
+        }
+    }
+    form{
+            float:left;
+            margin-top:6px;           
+        i{
+        
+            margin-right: 5px;
+            font-size: 12px;
+            color: #1e55ab;
+            input{
+                vertical-align: middle;
+            }
+        }
+    }
+    .goodHeadfr{
+        height: 40px;
+        line-height: 40px;
+        float: right;
+        margin-right: 20px;
+        a{
+            width:70px;
+            height: 25px;
+            text-align: center;
+            line-height:25px;
+            border: 1px solid #ddd;
+            font-size: 13px;
+        }
+    }
+}
+.goodfrgoods{
+    width:1000px;
+    height: 4120px;
+}
+.goodfrgoods ul{
+    li:hover{
+        border: 1px solid #ddd;
+        box-shadow: 0 1px 3px #999;
+    }
+    
+}
+.goodfrgoods ul li{
+    width:240px;
+    height: 390px;
+    border: 1px solid #fff;
+    border-bottom: 1px dashed #ddd;
+    float:left;
+    margin:20px 0 0 2px; 
+    position: relative;
+    .erweima{
+        display: none;
+        width:220px;
+        height: 220px;
+        background:rgba(0,0,0,0.5) url(../../dist/img/img2/daerweima.png) no-repeat  center 15px;
+        background-size:150px 150px;
+        position:absolute;
+        left:10px;
+        top:0;
+        border-radius: 8px;
+        p{
+            font-size:26px;
+            color: #fff;
+            font-weight: 400;
+            text-align: center;
+            margin-top: 175px;
+        }
+    }
+    .apc{
+        margin:0 auto;
+        display: block;
+        width: 220px;
+        img{
+            display: block;
+        }
+        
+    }
+    .p1{
+        margin:25px 0 25px 0;
+    }
+    .p1 span{
+        font-size:16px;
+        color:#e43b3b;
+    }
+    .p1 del{
+        font-size:14px;
+        color:#999;
+        margin-left: 5px;
+    }
+    .p2{
+        padding:0 5px;
+        a{
+            font-size:14px;
+            color: #000;
+            line-height: 25px;
+        }
+    }
+}
